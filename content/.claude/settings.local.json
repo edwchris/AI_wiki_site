@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(pip install pypdf --quiet)",
+      "WebSearch",
+      "WebFetch(domain:www.law.nyu.edu)",
+      "WebFetch(domain:scispace.com)",
+      "WebFetch(domain:papers.ssrn.com)",
+      "WebFetch(domain:aisel.aisnet.org)",
+      "WebFetch(domain:wrap.warwick.ac.uk)"
+    ]
+  }
+}
