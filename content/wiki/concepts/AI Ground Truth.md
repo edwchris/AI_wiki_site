@@ -5,7 +5,7 @@ type: concept
 tags: [ground-truth, machine-learning, evaluation, data-labeling, know-what, know-how, knowledge-work]
 created: 2026-06-27
 updated: 2026-06-27
-sources: [2021-lebovitz-levina-lifshitz-assaf-ai-ground-truth]
+sources: [2021-lebovitz-levina-lifshitz-assaf-ai-ground-truth, 2020-beede-human-centered-diabetic-retinopathy, 1994-nonaka-organizational-knowledge-creation]
 ---
 
 # AI Ground Truth
@@ -76,6 +76,11 @@ It is less severe when:
 
 ## Related Pages
 
-- [[Is AI Ground Truth Really True — Lebovitz, Levina & Lifshitz-Assaf 2021]] — source
+- [[Is AI Ground Truth Really True — Lebovitz, Levina & Lifshitz-Assaf 2021]] — source (field study in radiology)
+- [[Human-Centered Evaluation of AI in Diabetic Retinopathy Clinics — Beede et al. 2020]] — deployed AI fails in real clinics for the same reasons
+- [[Dynamic Theory of Organizational Knowledge Creation — Nonaka 1994]] — theoretical grounding: training labels are a lossy Externalization of tacit knowledge
+- [[Tacit and Explicit Knowledge]] — the know-how/know-what distinction through Nonaka's lens
 - [[Human-AI Synergy]] — related evidence on human–AI performance gaps
+- [[AI vs. Clinicians — Nagendran et al. 2020]] — benchmark claims that don't translate to real-world settings
+- [[Deep Learning in Medical Imaging]] — domain where the ground truth problem is most acute
 - [[Sarah Lebovitz]], [[Natalia Levina]], [[Hila Lifshitz-Assaf]] — authors

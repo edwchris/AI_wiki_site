@@ -17,6 +17,7 @@ AI_wiki/
 │   ├── entities/      ← named things (models, people, orgs, papers)
 │   ├── sources/       ← one summary page per raw source
 │   └── analyses/      ← comparison tables, synthesis, Q&A output
+├── projects/          ← project index pages (connector layer — not knowledge)
 └── templates/         ← page templates (do not use directly)
 ```
 
@@ -48,6 +49,41 @@ sources: [source-slug-1, source-slug-2]   # which raw sources informed this page
 - Link liberally between pages using `[[wikilinks]]`
 - Every entity and concept mentioned in a source summary should link to its own page
 - Orphan pages (no inbound links) should be flagged during lint
+
+## Projects Layer
+
+The `projects/` folder contains **connector pages**, not knowledge pages. Each project page links the wiki's knowledge to a real-world deliverable (paper, course, grant, portfolio). The LLM maintains the wiki; the human maintains the project workspace.
+
+### What a project page contains
+- **Goal** — one sentence stating the deliverable
+- **Key wiki connections** — links to the concepts, sources, and analyses most relevant to this project
+- **Wiki gaps** — `> [!question]` callouts listing what the wiki *lacks* that this project needs; these are the ingest priorities for next sessions
+- **External workspace** — a pointer to where the actual project work lives (Overleaf, Teams, personal vault)
+
+### What a project page does NOT contain
+- Knowledge (that belongs in `wiki/`)
+- Tasks, drafts, or in-progress writing (that belongs in the external workspace)
+- Personal career management detail (belongs in a separate personal vault)
+
+### Project page frontmatter
+```yaml
+---
+title: "Project Name"
+type: project
+status: active | planning | on-hold | complete
+tags: [project, ...]
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+---
+```
+
+### How to work with a project
+- **"Update project X"** — re-read index.md, re-read the project page, refresh the key connections and gaps sections
+- **"What does project X need from the wiki?"** — read the project's Wiki gaps section and report the `[!question]` items
+- **"Ingest for project X"** — treat the project's wiki gaps as the ingest priority list
+- **"New project: [name and goal]"** — create a new project page, populate connections from existing wiki, flag gaps
+
+Project pages are listed in `index.md` under a Projects section. Update the Projects section of index.md whenever a project page is created or its status changes. Append to log.md with format: `## [YYYY-MM-DD] project | Project Name`
 
 ## Operations
 

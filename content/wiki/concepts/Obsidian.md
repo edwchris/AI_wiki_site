@@ -23,9 +23,9 @@ In the [[LLM Wiki Pattern]], Obsidian serves as the **IDE** — the interface th
 |---------|-----|
 | Graph view | See connectivity; identify hubs and orphan pages |
 | Backlinks panel | See all pages that link to the current page |
-| `[[wikilinks]]` | Navigate between pages; foundation of the link graph |
-| Dataview plugin | Query YAML frontmatter for dynamic tables and lists |
-| Marp plugin | Render wiki content as slide decks |
+| `\[\[wikilinks\]\]` | Navigate between pages; foundation of the link graph |
+| [[Dataview]] plugin | Query YAML frontmatter for dynamic tables and lists |
+| [[Marp]] plugin | Render wiki content as slide decks |
 | Obsidian Web Clipper | Browser extension — converts web articles to markdown |
 | Canvas | Visual boards linking wiki pages |
 | Hotkeys | Bind "Download attachments" to Ctrl+Shift+D for local image caching |

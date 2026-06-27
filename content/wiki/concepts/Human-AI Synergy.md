@@ -85,7 +85,11 @@ Most current human–AI systems violate (3): they present the whole task to both
 ---
 
 ## Related Pages
-- [[When Combinations of Humans and AI Are Useful — Vaccaro et al. 2024]]
-- [[Is AI Ground Truth Really True — Lebovitz, Levina & Lifshitz-Assaf 2021]] — mechanism explanation for why AI underperforms in knowledge work: models capture know-what but not know-how; see [[AI Ground Truth]]
+- [[When Combinations of Humans and AI Are Useful — Vaccaro et al. 2024]] — meta-analysis source
+- [[Is AI Ground Truth Really True — Lebovitz, Levina & Lifshitz-Assaf 2021]] — mechanism: models capture know-what but not know-how → [[AI Ground Truth]]
+- [[Role Separation in AI-Human Radiology — Rajpurkar & Topol 2025]] — proposes role separation as solution to assistive AI failure → [[AI-Human Role Separation]]
+- [[PROMETHEUS RCT — Day et al. 2025]] — RCT showing AI as workflow tool (not decision aid) achieves positive outcomes → partial role separation in practice
+- [[Human-Centered Evaluation of AI in Diabetic Retinopathy Clinics — Beede et al. 2020]] — real-world case where human+AI underperformed benchmark prediction
+- [[Human-AI Interaction in Radiology — Kocak and Cuocolo 2026]] — comprehensive synthesis of collaboration models, cognitive impacts, and governance
 - [[MIT Center for Collective Intelligence]]
 - Human Augmentation — see above; same page
