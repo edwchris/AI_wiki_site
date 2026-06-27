@@ -1,11 +1,25 @@
 ---
-title: "AI in Real-Time Procedural Imaging — Framework Paper Analysis 2026-06-27"
-aliases: ["AI in Real-Time Procedural Imaging — Framework Paper Analysis 2026-06-27"]
+title: AI in Real-Time Procedural Imaging — Framework Paper Analysis 2026-06-27
+aliases:
+  - AI in Real-Time Procedural Imaging — Framework Paper Analysis 2026-06-27
 type: analysis
-tags: [AI-in-sonography, framework, verification-load, calibration, deskilling, human-AI-collaboration, task-centric]
+tags:
+  - AI-in-sonography
+  - framework
+  - verification-load
+  - calibration
+  - deskilling
+  - human-AI-collaboration
+  - task-centric
 created: 2026-06-27
 updated: 2026-06-27
-sources: [2025-day-prometheus-rct, 2024-vaccaro-human-ai-meta-analysis, 1983-bainbridge-ironies-of-automation, 2012-goddard-automation-bias-systematic-review, 2026-kocak-cuocolo-human-ai-radiology]
+sources:
+  - 2025-day-prometheus-rct
+  - 2024-vaccaro-human-ai-meta-analysis
+  - 1983-bainbridge-ironies-of-automation
+  - 2012-goddard-automation-bias-systematic-review
+  - 2026-kocak-cuocolo-human-ai-radiology
+draft:
 ---
 
 ## Analysis: AI in Real-Time Procedural Imaging — What a Framework Paper Reveals — 2026-06-27
