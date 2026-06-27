@@ -1,10 +1,16 @@
 ---
-title: "US Physics Teaching"
+title: US Physics Teaching
 type: project
 status: planning
-tags: [project, teaching, ultrasound-physics, education, curriculum]
+tags:
+  - project
+  - teaching
+  - ultrasound-physics
+  - education
+  - curriculum
 created: 2026-06-27
 updated: 2026-06-27
+draft: true
 ---
 
 # Project: US Physics Teaching

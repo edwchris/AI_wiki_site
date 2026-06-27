@@ -1,10 +1,15 @@
 ---
-title: "AI in Sonography Research"
+title: AI in Sonography Research
 type: project
 status: active
-tags: [project, ai-sonography, human-ai-collaboration, research-programme]
+tags:
+  - project
+  - ai-sonography
+  - human-ai-collaboration
+  - research-programme
 created: 2026-06-27
 updated: 2026-06-27
+draft: true
 ---
 
 # Project: AI in Sonography Research

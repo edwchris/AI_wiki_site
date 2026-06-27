@@ -19,7 +19,7 @@ sources:
   - 1983-bainbridge-ironies-of-automation
   - 2012-goddard-automation-bias-systematic-review
   - 2026-kocak-cuocolo-human-ai-radiology
-draft:
+draft: true
 ---
 
 ## Analysis: AI in Real-Time Procedural Imaging — What a Framework Paper Reveals — 2026-06-27

@@ -1,10 +1,16 @@
 ---
-title: "Professorship Portfolio"
+title: Professorship Portfolio
 type: project
 status: active
-tags: [project, career, promotion, academic-portfolio, QUT]
+tags:
+  - project
+  - career
+  - promotion
+  - academic-portfolio
+  - QUT
 created: 2026-06-27
 updated: 2026-06-27
+draft: true
 ---
 
 # Project: Professorship Portfolio

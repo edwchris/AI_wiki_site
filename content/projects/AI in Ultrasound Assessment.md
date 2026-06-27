@@ -1,10 +1,16 @@
 ---
-title: "AI in Ultrasound Assessment"
+title: AI in Ultrasound Assessment
 type: project
 status: active
-tags: [project, ai-education, assessment, sonography, ultrasound]
+tags:
+  - project
+  - ai-education
+  - assessment
+  - sonography
+  - ultrasound
 created: 2026-06-27
 updated: 2026-06-27
+draft: true
 ---
 
 # Project: AI in Ultrasound Assessment
